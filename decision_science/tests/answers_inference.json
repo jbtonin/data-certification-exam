@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "positive\n\n",
+    "T_STAT": "1.820 computed as (2252.7344 - 0)/1237.522\n\n",
+    "P_VALUE": "\nYOUR ANSWER HERE\nit means that median age is not statistically significant at 95% nor 90% confidence level\n",
+    "INCREASE": "\nYOUR ANSWER HERE\nFor each increase of 1 % of share of married couple, \ntotal number of incidents decrease on average by 2115.1839\n",
+    "LIMITATIONS": "\nYOUR ANSWER HERE\nThe main limitation is the multicolinearity of all factors.\n"
+}
